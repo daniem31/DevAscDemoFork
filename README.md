@@ -1,3 +1,4 @@
 # DevAscDemo
 Devnet Associate training 2025
-Daniela was here
+Daniela was here twice
+
